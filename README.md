@@ -5,13 +5,8 @@
 
 ## 使用方法
 
-```bash
-/bypass-chatgpt-license
-```
-
-或指定 MSIX 文件：
-```bash
-/bypass-chatgpt-license --msix D:\path\to\ChatGPT.msix
+需要从gpt官网下载 exe 安装包，然后搭配claude+skill  完成安装，
+缺点是 成功安装后的gpt 无法进行自动更新
 ```
 
 ## 工作流程
